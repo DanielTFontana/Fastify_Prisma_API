@@ -20,6 +20,6 @@ export class CreateCostumerService{
         }
     })
 
-        return {ok:true}
+        return custumer
     }
 }
